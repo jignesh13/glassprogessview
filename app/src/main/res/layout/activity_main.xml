@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.example.glassprogessview.VesselView
+    <com.example.glassprogessview.Heart
         android:id="@+id/vesselview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
