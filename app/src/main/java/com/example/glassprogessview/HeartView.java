@@ -17,7 +17,7 @@ public class HeartView extends View {
     private Path path;
 
     private Paint paint;
-    private float progess=0.5f;
+    private float progess=1.0f;
 
     public HeartView(Context context) {
         super(context);
